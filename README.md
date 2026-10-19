@@ -2,7 +2,7 @@
 Beaver Library of Congress Sorter Created For The Valley Library At Oregon State University
 
 # Video Demonstration
-[![Watch the video](https://img.youtube.com/vi/xCgvY3cAKno/maxresdefault.jpg)](https://youtu.be/xCgvY3cAKno)]
+[![Click the link to see a full demonstration](https://youtu.be/xCgvY3cAKno)]
 
 # How it works
 Goes through the selected .xlsx excel file, gathers all the relevent data, sorts each item in call number order, and then places the sorted rows onto a new csv file.
